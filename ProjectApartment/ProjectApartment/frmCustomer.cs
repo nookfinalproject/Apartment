@@ -22,7 +22,6 @@ namespace ProjectApartment
 
         private void frmCustomer_Load(object sender, EventArgs e)
         {
-
         }
         // ปุ่มเรียกดูข้อมูลลูกค้าทั้งหมด
         private void btn1_Click(object sender, EventArgs e)

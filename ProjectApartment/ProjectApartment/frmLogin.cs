@@ -21,8 +21,7 @@ namespace ProjectApartment
         DataSet ds = new DataSet();
         string con = "Data Source = arin.dyndns.org; Initial Catalog =db_apartment; User ID = sa; Password = o6Udojkiydot";
         private void label1_Click(object sender, EventArgs e)
-        {
-           
+        {           
         }
 
         private void button1_Click(object sender, EventArgs e)
